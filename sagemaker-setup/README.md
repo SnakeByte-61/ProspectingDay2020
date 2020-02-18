@@ -51,7 +51,7 @@ Here, type the following commands to clone the github repository for the worksho
 cd SageMaker/
 git clone https://github.com/nikhil031294/ProspectingDay2020.git
 ```
-![Alt text](../screenshots/setup17.PNG)
+![Alt text](../screenshots/setup19.PNG)
 
 Once this is done, close the tab and come back to the jupyter notebook page. You will see a new folder "demand-forecasting-sagemaker". The code for the entire workshop resides in that folder.
 
