@@ -24,7 +24,6 @@ As part of this workshop we will work to help the owner of the restaurant foreca
 * Data preprocessing.
 * Uploading data to S3.
 * Visualization for observing seasonality.
-* AutoRegression.
 * Model building.
 * HTTP inference endpoint creation.
 
