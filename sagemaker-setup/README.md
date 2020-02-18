@@ -53,9 +53,9 @@ git clone https://github.com/nikhil031294/ProspectingDay2020.git
 ```
 ![Alt text](../screenshots/setup19.PNG)
 
-Once this is done, close the tab and come back to the jupyter notebook page. You will see a new folder "demand-forecasting-sagemaker". The code for the entire workshop resides in that folder.
+Once this is done, close the tab and come back to the jupyter notebook page. You will see a new folder "ProspectingDay2020". The code for the entire workshop resides in that folder.
 
-![Alt text](../screenshots/setup18.PNG)
+<!--![Alt text](../screenshots/setup18.PNG)-->
 
 Congratulations! You've now completed the Sagemaker NoteBook Setup
 
