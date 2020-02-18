@@ -49,7 +49,7 @@ You, will get the screen below.
 Here, type the following commands to clone the github repository for the workshop.<br>
 ```shell
 cd SageMaker/
-git clone https://github.com/utsav-195/demand-forecasting-sagemaker.git
+git clone https://github.com/nikhil031294/ProspectingDay2020.git
 ```
 ![Alt text](../screenshots/setup17.PNG)
 
