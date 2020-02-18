@@ -62,11 +62,11 @@ Once this is done, close the tab and come back to the jupyter notebook page. You
 
 Congratulations! You've now completed the Sagemaker NoteBook Setup
 
-Now, open the demand-forecasting-sagemaker folder and you will see the following files and folders.
+Now, open the "ProspectingDay2020" folder and you will see the following files and folders.
 
-![Alt text](../screenshots/setup34.PNG)
+![Alt text](../screenshots/FolderStruct1.png)
 
-In this directory, go to the DeepAR-demo folder and click on the DeepAR-lab.ipynb file.
+In this directory, go to the DeepAR-demo folder and click on the DeepAR_lab.ipynb file.
 
-![Alt text](../screenshots/setup35.PNG)
-Next Step is the DeepAR hands-on lab. To continue, [go here](../DeepAR-demo/DeepAR-Lab.ipynb)
+![Alt text](../screenshots/FolderStruct2.png)
+Next Step is the DeepAR hands-on lab. To continue, [go here](../DeepAR-demo/DeepAR_Lab.ipynb)
