@@ -4,7 +4,7 @@ Go to [https://aws.amazon.com/](https://aws.amazon.com/) and sign-in into your a
 
 Next, at the home console screen, type "SageMaker" into the search bar and select "Amazon SageMaker" making sure you are in the 'Northern Virginia' Region:
 
-![Alt text](../screenshots/setup7.PNG)
+![Alt text](../screenshots/sagemaker_init.png)
 ![Alt text](../screenshots/regionuseast1.png)
 Next, you should find yourself at the Amazon SageMaker home page.
 <!--If you come accross such a page, select "US East 1 (N. Virginia)" from the drop-down menu.
@@ -35,7 +35,7 @@ Add the notebook instance name. And use the following configurations:<br>
 
 And then hit create notebook instance to launch the instance. This may take about 2-5 minutes.
 
-![Alt text](../screenshots/setup12.PNG)
+![Alt text](../screenshots/timeseries.png)
 
 Once the Status is InService, under Actions select "Open Jupyter" and you will be redirected to the jupyter notebook.
 
@@ -43,7 +43,7 @@ Once the Status is InService, under Actions select "Open Jupyter" and you will b
 
 Now, click on "new" box and select the terminal option to open a new terminal tab.
 
-![Alt text](../screenshots/setup15.PNG)
+![Alt text](../screenshots/terminal.png)
 
 You, will get the screen below.
 
