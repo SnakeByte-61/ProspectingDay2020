@@ -37,7 +37,7 @@ And then hit create notebook instance to launch the instance. This may take abou
 
 ![Alt text](../screenshots/setup12.PNG)
 
-Once the Status is InService, under Actions select "Open" and you will be redirected to the jupyter notebook.
+Once the Status is InService, under Actions select "Open Jupyter" and you will be redirected to the jupyter notebook.
 
 ![Alt text](../screenshots/setup14.PNG)
 
