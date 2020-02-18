@@ -11,15 +11,14 @@ Next, you should find yourself at the Amazon SageMaker home page.
 
 <!--![Alt text](../screenshots/setup9.PNG) -->
 
-And you will be redirected to the SageMaker page.
+And you will be redirected to the SageMaker page. Click on 'Notebook Instances'
 
 ![Alt text](../screenshots/Sagemaker.png)
 
 Click on the "create notebook instance" box and go to that page.
 ![Alt text](../screenshots/Screenshot.png)
 
-![Alt text](../screenshots/setup3.PNG)
-![Alt text](../screenshots/setup4.PNG)
+
 
 Add the notebook instance name. And use the following configurations:<br>
 * For this example we are going to use the ml.t2.medium instance type. For more details about the instance, [go here](https://aws.amazon.com/sagemaker/pricing/instance-types/).<br>
@@ -30,6 +29,9 @@ Add the notebook instance name. And use the following configurations:<br>
 * Adding tags is optional. Here we are adding a description in the tags.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Key : Description<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Value : Sagemaker instance to learn timeseries at re:Invent.
+![Alt text](../screenshots/setup3.PNG)
+![Alt text](../screenshots/setup4.PNG)
+
 
 And then hit create notebook instance to launch the instance. This may take about 2-5 minutes.
 
