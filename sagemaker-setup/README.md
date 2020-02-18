@@ -5,17 +5,18 @@ Go to [https://aws.amazon.com/](https://aws.amazon.com/) and sign-in into your a
 Next, at the home console screen, type "SageMaker" into the search bar and select "Amazon SageMaker" making sure you are in the 'Northern Virginia' Region:
 
 ![Alt text](../screenshots/setup7.PNG)
-
+![Alt text](../screenshots/regionuseast1.png)
 Next, you should find yourself at the Amazon SageMaker home page.
-If you come accross such a page, select "US East 1 (N. Virginia)" from the drop-down menu.
+<!--If you come accross such a page, select "US East 1 (N. Virginia)" from the drop-down menu.
 
-![Alt text](../screenshots/setup9.PNG)
+<!--![Alt text](../screenshots/setup9.PNG) -->
 
 And you will be redirected to the SageMaker page.
 
-![Alt text](../screenshots/setup1.PNG)
+![Alt text](../screenshots/Sagemaker.png)
 
 Click on the "create notebook instance" box and go to that page.
+![Alt text](../screenshots/Screenshot.png)
 
 ![Alt text](../screenshots/setup3.PNG)
 ![Alt text](../screenshots/setup4.PNG)
